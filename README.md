@@ -6,9 +6,9 @@
 
 ``pip3 install telethon``
 
-``git clone https://github.com/kekoDev/telethon-with-echo`` 
+``git clone https://github.com/jalithon/telethon-compilation`` 
 
-``cd telethon-with-echo``
+``cd telethon-compilation``
 
 * بعد اكتمال التصيب يمكنك تشغيل الملف من خلال امر : 
 
