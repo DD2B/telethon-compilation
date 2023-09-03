@@ -12,7 +12,7 @@ import requests
 from time import sleep
 import multiprocessing
 import json
-API_ID = '19653519'
+API_ID = '1'
 API_HASH = '186c3adb292c12bdf180ff27952e6ee1'
 bot_token = ""
 running_processes = {}
