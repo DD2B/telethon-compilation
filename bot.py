@@ -12,9 +12,9 @@ import requests
 from time import sleep
 import multiprocessing
 import json
-API_ID = '8'
+API_ID = '19653519'
 API_HASH = '186c3adb292c12bdf180ff27952e6ee1'
-bot_token = ""
+bot_token = "6345008666:AAF0sc_YHZArs46R7lQL5OeC5PmyVOtGksE"
 running_processes = {}
 try:
     with open("echo_data.json", "r") as json_file:
